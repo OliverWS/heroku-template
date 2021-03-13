@@ -1,7 +1,7 @@
 {
   "name": "directus-project",
   "version": "1.0.0",
-  "description": "Directus",
+  "description": "Softagon Sistemas",
   "scripts": {
     "start": "directus start"
   },

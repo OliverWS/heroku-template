@@ -1,12 +1,12 @@
 {
   "name": "directus-project",
   "version": "1.0.0",
-  "description": "Directus",
+  "description": "Softagon Sistemas",
   "scripts": {
     "start": "directus start"
   },
   "dependencies": {
-    "directus": "^9.0.0-rc.40",
+    "directus": "^9.0.0-rc.51",
     "pg": "^8.5.1"
   }
 }
